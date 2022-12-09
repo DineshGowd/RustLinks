@@ -17,9 +17,9 @@ https://www.thorsten-hans.com/grpc-services-in-rust-with-tonic/
 #### Rust WebApplication Blogs :
 
 ## Rust Miscellaneous :
-https://github.com/bloomrpc/bloomrpc
-https://chocolatey.org/install
-https://learn.microsoft.com/en-us/aspnet/core/grpc/browser?view=aspnetcore-7.0
+1. https://github.com/bloomrpc/bloomrpc
+2. https://chocolatey.org/install
+3. https://learn.microsoft.com/en-us/aspnet/core/grpc/browser?view=aspnetcore-7.0
 
 ## Rust Latest News :
 
