@@ -30,3 +30,6 @@ https://github.com/dtolnay/rust-quiz
 https://github.com/dtolnay/rust-faq
 [https://www.onlineinterviewquestions.com/pdfs/rust-interview-questions.pdf](https://www.onlineinterviewquestions.com/pdfs/rust-interview-questions.pdf)
 https://github.com/bluss/rustfaq
+
+## Rust Issues and fixes :
+https://dev.to/ssivakumar/rust-diesel-fixing-issues-with-setup-3k56
