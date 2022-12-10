@@ -41,7 +41,13 @@ https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diese
 
 https://news.ycombinator.com/item?id=32813358
 https://news.ycombinator.com/item?id=32578743
-
+https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3215760/nsa-releases-guidance-on-how-to-protect-against-software-memory-safety-issues/
+https://www.theregister.com/2022/12/09/linux_kernel_61_column/?td=amp-keepreading
+https://security.googleblog.com/2021/04/rust-in-linux-kernel.html?m=1
+https://static.sched.com/hosted_files/lssna19/d6/kernel-modules-in-rust-lssna2019.pdf
+https://www.youtube.com/watch?v=RyY01fRyGhM
+https://www.theregister.com/2022/12/02/android_google_rust/?td=keepreading
+https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1
 
 
 ## Rust YouTube Channels :
